@@ -11,7 +11,7 @@
     "apn": "^2.2.0",
     "async": "^2.6.0",
     "body-parser": "^1.18.2",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-rate-limit": "^2.11.0",
     "express-validator": "^5.1.2",
     "http-assert": "^1.4.0",
